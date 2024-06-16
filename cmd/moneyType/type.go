@@ -4,7 +4,7 @@ Copyright © 2024 NAME HERE <EMAIL ADDRESS>
 package moneyType
 
 import (
-	"budget-buddy/cmd"
+	"github.com/Intisma/budget-buddy/cmd"
 
 	"github.com/spf13/cobra"
 )

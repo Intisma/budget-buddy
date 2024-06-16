@@ -4,8 +4,9 @@ Copyright © 2024 NAME HERE <EMAIL ADDRESS>
 package transfer
 
 import (
-	"budget-buddy/cmd"
 	"fmt"
+
+	"github.com/Intisma/budget-buddy/cmd"
 
 	"github.com/spf13/cobra"
 )

@@ -4,11 +4,11 @@ Copyright © 2024 NAME HERE <EMAIL ADDRESS>
 package main
 
 import (
-	"budget-buddy/cmd"
+	"github.com/Intisma/budget-buddy/cmd"
 
-	_ "budget-buddy/cmd/moneyType"
-	_ "budget-buddy/cmd/periodic"
-	_ "budget-buddy/cmd/transfer"
+	_ "github.com/Intisma/budget-buddy/cmd/moneyType"
+	_ "github.com/Intisma/budget-buddy/cmd/periodic"
+	_ "github.com/Intisma/budget-buddy/cmd/transfer"
 )
 
 func main() {

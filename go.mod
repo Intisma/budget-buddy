@@ -1,4 +1,4 @@
-module budget-buddy
+module github.com/Intisma/budget-buddy
 
 go 1.22.4
 
